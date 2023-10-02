@@ -3190,11 +3190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Documents/Apps/Agents app/Agents app.csproj",
-      "projectName": "Agents app",
-      "projectPath": "/Users/apple/Documents/Apps/Agents app/Agents app.csproj",
+      "projectUniqueName": "/Users/apple/Documents/Apps/Agent Solution/AgentService/AgentsApp.csproj",
+      "projectName": "AgentsApp",
+      "projectPath": "/Users/apple/Documents/Apps/Agent Solution/AgentService/AgentsApp.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Documents/Apps/Agents app/obj/",
+      "outputPath": "/Users/apple/Documents/Apps/Agent Solution/AgentService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"

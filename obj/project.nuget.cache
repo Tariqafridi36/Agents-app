@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+E5eHmykYn7dQZz8c5feQ/zrtDrCBMRBIYIScVmmKPtsbU47YPQ03knkYP4PusBudo7X63xQxqqD+QBxChiDGA==",
+  "dgSpecHash": "jSKU0/hU55CD6PzoMHmJdYebE1a1jgvnTiZbjl7Jufm6gBtO65m2mcscgt0BJoelvW/TQRkRvRopYZ999wxUDA==",
   "success": true,
-  "projectFilePath": "/Users/apple/Documents/Apps/Agents app/Agents app.csproj",
+  "projectFilePath": "/Users/apple/Documents/Apps/Agent Solution/AgentService/AgentsApp.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
